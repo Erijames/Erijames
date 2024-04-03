@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Erijames Barros ! ✌️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/james-barros-000326135)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-barros-DS/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erijames&show_icons=true&theme=dracula)
 
